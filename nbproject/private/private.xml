@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp_brice/htdocs/CsvIntoBD/controls/affecterCTRL.php</file>
+            <file>file:/C:/xampp_brice/htdocs/CsvIntoBD/controls/demanderCTRL.php</file>
+            <file>file:/C:/xampp_brice/htdocs/CsvIntoBD/boundaries/demanderIHM.php</file>
+            <file>file:/C:/xampp_brice/htdocs/CsvIntoBD/entities/Demande.php</file>
+            <file>file:/C:/xampp_brice/htdocs/CsvIntoBD/boundaries/affecterIHM.php</file>
+            <file>file:/C:/xampp_brice/htdocs/CsvIntoBD/documentation/todoListe</file>
+            <file>file:/C:/xampp_brice/htdocs/CsvIntoBD/daos/EtablissementDAO.php</file>
+            <file>file:/C:/xampp_brice/htdocs/CsvIntoBD/daos/DemandeDAO.php</file>
+            <file>file:/C:/xampp_brice/htdocs/CsvIntoBD/entities/Etablissement.php</file>
+            <file>file:/C:/xampp_brice/htdocs/CsvIntoBD/essais/testDAOS.php</file>
+            <file>file:/C:/xampp_brice/htdocs/CsvIntoBD/boundaries/footer.php</file>
+        </group>
+    </open-files>
+</project-private>

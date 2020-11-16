@@ -1,0 +1,35 @@
+Annexe:
+corriger les fautes dans les fichiers
+Foreign Key a revoir (INDEX utilisé pour l'insant)
+refaire au propre les fichers insertion BD (avec commentaire à foison)(test en local)
+
+Project:
+travail en cours :continuer les controlers et les IHMs pour ajouter les inserts/delete/update etablissement
+
+
+bonus:
+javascript finir le casse brique
+
+
+
+à apprendre:
+-substring (javascipt) pour une recherche avec liste deroulante
+ (problématique : liste deroulante avec plus de 1000 entrées trop encombrant)
+JQUERY data table
+
+
+formulaire de demande de circo:
+si raison particulière affichage du prof remplacant
+
+
+etablissement.sql: des modification faites
+test en local pour vérifier le fichier complet.
+
+Aunthentification !
+4 Roles
+ -Visiteur
+ -DSDEN
+ -Circonscription
+ -Superviseur
+
+Ajouter un controls de saisie pour Demande et Affecter :  Ajouter dans la liste une valeur pas defauts qui FALSE un fois validé.

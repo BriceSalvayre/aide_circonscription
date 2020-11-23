@@ -15,7 +15,7 @@ header.php
         <div class="container">
             <div class="row">
                 <div class="col md">
-                    <img class="img-fluid" max-width:100%; src="../images/mergedImage.jpg" class="mx-auto d-block">
+                    <img class="img-fluid" max-width:100%; src="../images/mergedImage.png" class="mx-auto d-block">
                 </div>
 
                 <!--<div class="col-10 md fondJaune"><h1>bandeau education national</h1></div>-->

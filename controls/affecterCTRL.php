@@ -12,7 +12,8 @@ require_once '../entities/Enseignant.php';
 
 // debut de connexion
 $cnx = new Connexion();
-$pdo =$cnx->seConnecter("../conf/bdDis.ini");
+//$pdo =$cnx->seConnecter("../conf/bdDis.ini");
+$pdo =$cnx->seConnecter("../conf/bdLoc.ini");
 
 
 

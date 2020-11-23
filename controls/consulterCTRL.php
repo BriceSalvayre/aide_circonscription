@@ -10,7 +10,8 @@ require_once '../daos/EnseignantDAO.php';
 require_once '../daos/DemandeDAO.php';
 
 $cnx = new Connexion();
-$pdo = $cnx->seConnecter("../conf/bdDis.ini");
+//$pdo = $cnx->seConnecter("../conf/bdDis.ini");
+$pdo =$cnx->seConnecter("../conf/bdLoc.ini");
 
 $retour = "";
 
